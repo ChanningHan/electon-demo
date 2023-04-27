@@ -1,0 +1,8 @@
+.vscode
+lib
+es
+dist
+node_modules
+.idea
+.DS_Store
+out
